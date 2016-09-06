@@ -73,7 +73,7 @@ You should have received an email from Github notifying you that you have been a
   ```cd recitation01   ```<br/>
   ```>cso-rocks.txt   ```<br/>
   ```git add cso-rocks.txt    ```<br/>
-  ```git commit -m "First commit" cso-rocks.txt   ```<br/>
+  ```git commit -am "First commit" cso-rocks.txt   ```<br/>
   ```git push origin master   ```<br/>  
 
 You should now see a file 'cso-rocks.txt' on the Github page for your fork of the recitation01 repository. 
