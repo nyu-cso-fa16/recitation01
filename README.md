@@ -24,7 +24,7 @@ A virtual machine (VM) is an operating system OS or application environment that
 
 You are required to do all labs on the class virtual machine (VM) based on Ubuntu Linux. To get the virtual machine running on your personal desktop or laptop, take the following steps. 
 
-* Download the VirtualBox virtual machine monitor <a href="https://www.virtualbox.org/wiki/Download_Old_Builds_4_3">Version 4.3.30</a> (Please just use version 4.3.30 and not any other version.) Choose the right binary to download according to the type of operating system running on your laptop.  
+* Download the VirtualBox virtual machine monitor <a href="https://www.virtualbox.org/wiki/Download_Old_Builds_4_3">Version 4.3.30</a> (If 4.3.30 does not work, try the latest stable release instead.) Choose the right binary to download according to the type of operating system running on your laptop.  
 *  Download the class virtual machine image <a href="http://tintin.news.cs.nyu.edu/lubuntu14.04.ova">here</a>. This file is fairly large (1.1GB), so you need to be patient.  
 * Install and launch Virtualbox. On the Virtualbox application toolbar, under the Menu item "File", click on "Import appliance...", and choose the previously downloaded lubuntu14.04.ova file when prompted.  
 * Turn off the option "Enable Nested Paging" in the VirtualBox configuration under Settings->System->Acceleration. If this option does not appear or if the checkbox is greyed out then skip it.
